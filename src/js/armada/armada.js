@@ -7,7 +7,7 @@
  */
 
 /**
- * @param game This module uses the template provided by the game module and customizes it for Interstellar Armada
+ * @param game This module uses the template provided by the game module and customizes it for HumanGrok
  * @param components Used to clear the cached DOM models of all loaded components after the game has been initialized
  * @param analytics Used for initializing game analytics
  * @param lights Used to set up light space perspective shadow mapping

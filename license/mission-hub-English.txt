@@ -1,7 +1,7 @@
 Mission Hub submission terms
 10 January, 2022
 
-For the Interstellar Armada: Galactic Ace open source game (available at https://nkrisztian89.github.io/interstellar-armada), referred to as "the game"
+For the HumanGrok: Galactic Ace open source game (available at https://nkrisztian89.github.io/interstellar-armada), referred to as "the game"
 Particularly its mission sharing feature available within the game, referred to as "Mission Hub"
 By the developer of the game: Krisztián Nagy, available at armada.galactic.ace@gmail.com, referred to as "the developer"
 

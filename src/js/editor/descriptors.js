@@ -1,7 +1,7 @@
 /**
  * Copyright 2016-2017, 2019-2023 Krisztián Nagy
  * @file Provides the descriptor objects that outline the structure of properties for the various resource / class categories of 
- * Interstellar Armada for the editor.
+ * HumanGrok for the editor.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */

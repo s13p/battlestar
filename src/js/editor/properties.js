@@ -1,6 +1,6 @@
 /**
  * Copyright 2016-2017, 2019-2023 Krisztián Nagy
- * @file Provides the content and event handlers for the Properties window of the Interstellar Armada editor.
+ * @file Provides the content and event handlers for the Properties window of the HumanGrok editor.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */

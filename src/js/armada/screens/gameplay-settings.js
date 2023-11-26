@@ -1,6 +1,6 @@
 /**
  * Copyright 2017-2023 Krisztián Nagy
- * @file This module manages and provides the gameplay settings screen of the Interstellar Armada game.
+ * @file This module manages and provides the gameplay settings screen of the HumanGrok game.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */

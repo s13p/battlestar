@@ -1,7 +1,7 @@
 Küldetés Központ (Mission Hub) felhasználási feltételek
 2022. Január 10.
 
-Készült az Interstellar Armada: Galactic Ace nyílt forráskodú játék (elérhető: https://nkrisztian89.github.io/interstellar-armada), továbbiakban "a játék",
+Készült az HumanGrok: Galactic Ace nyílt forráskodú játék (elérhető: https://nkrisztian89.github.io/interstellar-armada), továbbiakban "a játék",
 azon belül különösen a küldetésmegosztó funkció, továbbiakban "Küldetés Központ" vonatkozásában
 a játék fejlesztője: Nagy Krisztián (elérhetőség: armada.galactic.ace@gmail.com), továbbiakban "a fejlesztő" által
 

@@ -1,5 +1,5 @@
 This file contains the detailed credits and licensing information about 
-the sound effects used in the Interstellar Armada: Galactic Ace game.
+the sound effects used in the HumanGrok: Galactic Ace game.
 
 More information about the licenses referred here:
 CC BY 4.0: https://creativecommons.org/licenses/by/4.0/

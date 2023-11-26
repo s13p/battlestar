@@ -25,7 +25,7 @@
  * @param control Used to trigger gamepad vibration effects
  * @param graphics Used to access graphics settings
  * @param networking Used to query whether we are hosting the game
- * @param classes Used to load and access the classes of Interstellar Armada
+ * @param classes Used to load and access the classes of HumanGrok
  * @param config Used to access game settings/configuration
  * @param strings Used for translation support
  * @param logicConstants Used for accessing pool names

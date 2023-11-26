@@ -1,6 +1,6 @@
 /**
  * Copyright 2017, 2020-2021, 2023 Krisztián Nagy
- * @file Provides the setup and event-handling for the preview window used for shader resources within the Interstellar Armada editor.
+ * @file Provides the setup and event-handling for the preview window used for shader resources within the HumanGrok editor.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */

@@ -1,6 +1,6 @@
 /**
  * Copyright 2016, 2020-2021 Krisztián Nagy
- * @file Contains the constants accessible to all modules of the Interstellar Armada game.
+ * @file Contains the constants accessible to all modules of the HumanGrok game.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
@@ -8,7 +8,7 @@
 define(function () {
     "use strict";
     var
-            GAME_NAME = "Interstellar Armada",
+            GAME_NAME = "HumanGrok",
             LOCAL_STORAGE_PREFIX = "armada_",
             LANGUAGE_LOCAL_STORAGE_ID = LOCAL_STORAGE_PREFIX + "language",
             VERSION_LOCAL_STORAGE_ID = LOCAL_STORAGE_PREFIX + "version";

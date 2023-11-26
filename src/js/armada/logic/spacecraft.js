@@ -23,7 +23,7 @@
  * @param strings Used for translation support
  * @param control Used to access control sound effects
  * @param networking Used to register kills for multiplayer games
- * @param classes Used to load and access the classes of Interstellar Armada
+ * @param classes Used to load and access the classes of HumanGrok
  * @param constants Used for light priority values
  * @param SpacecraftEvents Used for event handling
  * @param equipment Used for equipping spacecrafts

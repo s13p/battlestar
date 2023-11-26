@@ -1,6 +1,6 @@
 /**
  * Copyright 2016-2023 Krisztián Nagy
- * @file Contains the common constants and functions accessible to all screens of the Interstellar Armada game.
+ * @file Contains the common constants and functions accessible to all screens of the HumanGrok game.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */

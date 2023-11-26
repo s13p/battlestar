@@ -16,7 +16,7 @@
  * @param lights Used for creating light sources for game objects and environments
  * @param sceneGraph Creating and managing the scene graph for visual simulation is done using this module
  * @param graphics Used to access graphics settings
- * @param classes Used to load and access the classes of Interstellar Armada
+ * @param classes Used to load and access the classes of HumanGrok
  * @param explosion Used to create particle effects
  * @param config Used to access game settings/configuration
  * @param strings Used for translation support

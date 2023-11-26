@@ -20,7 +20,7 @@
  * @param graphics Used to access graphics settings
  * @param audio Used to access constants
  * @param config Used to access game settings/configuration
- * @param classes Used to load and access the classes of Interstellar Armada
+ * @param classes Used to load and access the classes of HumanGrok
  * @param SpacecraftEvents Used to call spacecraft events handlers for events triggered by equipment
  * @param constants Used to access the light priorities
  * @param explosion Used to create explosion for e.g. hits

@@ -1,6 +1,6 @@
 /**
  * Copyright 2016-2023 Krisztián Nagy
- * @file The main module for the Interstellar Armada editor.
+ * @file The main module for the HumanGrok editor.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
@@ -677,7 +677,7 @@ define([
         return {
             name: name,
             author: author,
-            comment: "Created by Interstellar Armada editor",
+            comment: "Created by HumanGrok editor",
             version: application.getVersion(),
             creationTime: new Date().toString()
         };
@@ -1300,7 +1300,7 @@ define([
     // The public interface of the module
     return {
         initialize: function (data) {
-            application.log("Initializing the Interstellar Armada Editor...");
+            application.log("Initializing the HumanGrok Editor...");
             application.useElectron(data.electron);
             application.setPreviouslyRunVersion(localStorage[constants.VERSION_LOCAL_STORAGE_ID]);
             _requestConfigLoad();

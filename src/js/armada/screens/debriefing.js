@@ -1,6 +1,6 @@
 /**
  * Copyright 2016-2021 Krisztián Nagy
- * @file This module manages and provides the Mission debriefing screen of the Interstellar Armada game.
+ * @file This module manages and provides the Mission debriefing screen of the HumanGrok game.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */

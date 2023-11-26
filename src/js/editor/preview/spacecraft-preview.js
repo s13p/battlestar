@@ -1,6 +1,6 @@
 /**
  * Copyright 2016-2022 Krisztián Nagy
- * @file Provides the setup and event-handling for the preview window used for spacecraft classes within the Interstellar Armada editor.
+ * @file Provides the setup and event-handling for the preview window used for spacecraft classes within the HumanGrok editor.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */

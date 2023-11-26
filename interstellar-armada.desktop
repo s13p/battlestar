@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Interstellar Armada: Galactic Ace
-GenericName=Interstellar Armada
+Name=HumanGrok: Galactic Ace
+GenericName=HumanGrok
 Exec=interstellar-armada %U
 Icon=${SNAP}/meta/gui/interstellar-armada.png
 Type=Application

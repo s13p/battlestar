@@ -16,7 +16,7 @@
  * @param sceneGraph Creating and managing the scene graph for visual simulation is done using this module
  * @param particleSystem Used for creating particle systems for explosions
  * @param graphics Used to access graphics settings
- * @param classes Used to load and access the classes of Interstellar Armada
+ * @param classes Used to load and access the classes of HumanGrok
  * @param config Used to access game settings/configuration
  * @param constants Used to access the light priority of explosions and pool names
  */

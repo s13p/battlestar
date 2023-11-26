@@ -1,6 +1,6 @@
 /**
  * Copyright 2016-2023 Krisztián Nagy
- * @file This module manages and provides the Missions screen of the Interstellar Armada game.
+ * @file This module manages and provides the Missions screen of the HumanGrok game.
  * @author Krisztián Nagy [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
@@ -559,7 +559,7 @@ define([
                     this._community ?
                     (missionHub.isReady() ? strings.MISSIONS.MISSION_HUB_DESCRIPTION : strings.MISSIONS.MISSION_HUB_CONNECTING_DESCRIPTION) :
                     strings.MISSIONS.NO_SELECTED_DESCRIPTION), {
-                editor: '<a target="_blank" rel="noopener" href="editor.html#missions">Interstellar Armada editor</a>'
+                editor: '<a target="_blank" rel="noopener" href="editor.html#missions">HumanGrok editor</a>'
             });
             this._missionObjectivesTitle.hide();
             this._missionObjectives.hide();

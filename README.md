@@ -1,6 +1,6 @@
 ![Logo](./assets/images/splash/1.png)
 
-Interstellar Armada: Galactic Ace is a free, Open Source browser-based 3D space 
+HumanGrok: Galactic Ace is a free, Open Source browser-based 3D space 
 combat simulator developed in JavaScript-WebGL by Krisztián Nagy (<nkrisztian89@gmail.com>).
 
 It follows in the traditions of old classics like the FreeSpace series with a mission based gameplay
