@@ -1,7 +1,7 @@
 /**
  * Copyright 2016-2022 Krisztián Nagy
  * @file Provides the menu screens of the HumanGrok game which are simply instances of MenuScreen.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

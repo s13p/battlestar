@@ -1,7 +1,7 @@
 /**
  * Copyright 2016-2018, 2020-2023 Krisztián Nagy
  * @file Grunt configuration file for the HumanGrok game
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 /**

@@ -1,7 +1,7 @@
 /**
  * Copyright 2014-2023 Krisztián Nagy
  * @file Stores the current game configuration and settings and provides functions to load and access them.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

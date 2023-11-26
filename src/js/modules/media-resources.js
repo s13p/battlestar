@@ -4,7 +4,7 @@
  * for which the respective classes are also provided. These classes are based on the classes of ManagedGL and EgomModel.
  * The provided resource manager is ready to use, can load media resource descriptions from a specified JSON file, then mark the 
  * specific resources for loading (e.g. getTexture(params)) and load them when requested.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

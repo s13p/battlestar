@@ -1,7 +1,7 @@
 /**
  * Copyright 2021-2022 Krisztián Nagy
  * @file This module manages and provides the Multiplayer Lobby screen of the HumanGrok game.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

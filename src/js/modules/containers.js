@@ -1,7 +1,7 @@
 /**
  * Copyright 2017, 2020-2021, 2023 Krisztián Nagy
  * @file Provides container classes for general use.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

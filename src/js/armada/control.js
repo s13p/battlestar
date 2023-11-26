@@ -1,7 +1,7 @@
 /**
  * Copyright 2014-2023 Krisztián Nagy
  * @file Provides functionality to load and access control configuration and settings for HumanGrok.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

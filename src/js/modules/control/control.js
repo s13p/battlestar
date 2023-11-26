@@ -10,7 +10,7 @@
  * To use this module, create your set of controllers, create your context, add interpreters for the needed input devices to it with your
  * bindings, add your controllers as well and then use the provided methods to start / stop listening for different devices and execute all
  * the functions bound for currently triggered / non-triggered actions by calling control() on the context.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

@@ -1,7 +1,7 @@
 /**
  * Copyright 2022 Krisztián Nagy
  * @file Spacecraft formation related code
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

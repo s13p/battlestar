@@ -1,7 +1,7 @@
 /**
  * Copyright 2017-2018, 2020-2022 Krisztián Nagy
  * @file This is a simple analytics module that sends requests to an analytics backend
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

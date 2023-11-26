@@ -9,7 +9,7 @@
  * - use Resource as the parent class for objects that represent asynchronous resources
  * - call setToReady() on these objects when their loading finishes (-> in the callback function)
  * - use executeWhenReady() to call functions that can be only executed when the resource is loaded
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

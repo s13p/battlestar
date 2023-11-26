@@ -10,7 +10,7 @@
  * - use requestTextFile(), requestFile() or requestCSSFile() to easily manage the loading of files from the set folders
  * - use setLogVerbosity() and log() to log with a settable level of verbosity
  * - use showError() to display verbose error messages
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

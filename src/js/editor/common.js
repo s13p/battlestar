@@ -2,7 +2,7 @@
  * Copyright 2016-2017, 2020-2023 Krisztián Nagy
  * @file Provides some common functions to be used for the HumanGrok editor.
  * HumanGrok for the editor.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

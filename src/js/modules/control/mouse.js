@@ -2,7 +2,7 @@
  * Copyright 2014-2018, 2020-2022 Krisztián Nagy
  * @file Provides an input interpreter subclass (based on the base class provided by the generic control module) to
  * catch and process input from the mouse.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

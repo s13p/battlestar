@@ -1,7 +1,7 @@
 /**
  * Copyright 2017, 2020-2022 Krisztián Nagy
  * @file Event identifiers for spacecraft related events
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

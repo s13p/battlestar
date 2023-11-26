@@ -4,7 +4,7 @@
  * arrays and typed arrays, and custom objects through the usage of an object definition (i.e. schema) format. Types can be combined this
  * way and constraints can be set on types (such as a range for a number of an array's length, presence of certain properties, or passing
  * a custom check function).
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

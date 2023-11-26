@@ -12,7 +12,7 @@
  * - _buildScreensAndExecuteCallback()
  * with the appropriate operations.
  * The, call initialize() to run the game.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

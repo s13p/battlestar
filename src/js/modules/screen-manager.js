@@ -1,7 +1,7 @@
 /**
  * Copyright 2014-2017, 2020-2021 Krisztián Nagy
  * @file Provides functions to add and access HTML screens of the application.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

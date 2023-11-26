@@ -11,7 +11,7 @@
  * - set up the context
  * - set the shader and its uniforms using the managed resources
  * - use the render function of the model to render it to the context
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

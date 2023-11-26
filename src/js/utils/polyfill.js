@@ -1,6 +1,6 @@
 /**
  * @fileOverview Polyfill functions for better cross-browser compatibility.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  */
 
 /**********************************************************************

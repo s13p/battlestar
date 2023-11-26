@@ -11,7 +11,7 @@
  * - after the config has been loaded, use getResource("textFiles", "first") to request one of the resources, then
  * - use ResourceManager.executeWhenReady() to run code after the resources have been loaded from file
  * - use requestResourceLoad() to initiate the loading of resources from files
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

@@ -30,7 +30,7 @@
  * - game update message:
  * concise control and game state updates communicated between the host and guests
  * during the game as a Float32Array
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

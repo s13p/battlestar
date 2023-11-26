@@ -1,7 +1,7 @@
 /**
  * Copyright 2014-2017, 2020-2022 Krisztián Nagy
  * @file This file provides a class that builds on the Control module to provide a Controller for cameras of the SceneGraph module
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

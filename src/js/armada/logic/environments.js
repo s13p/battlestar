@@ -1,7 +1,7 @@
 /**
  * Copyright 2014-2018, 2020-2022 Krisztián Nagy
  * @file Implementation of loading and managing environments
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

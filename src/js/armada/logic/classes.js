@@ -2,7 +2,7 @@
  * Copyright 2014-2023 Krisztián Nagy
  * @file Provides functionality for loading the definitions for in-game classes from a JSON file and then accessing the loaded classes by
  * type and name. Also provides constructors for those classes of which custom instances can be created.
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

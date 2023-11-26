@@ -1,7 +1,7 @@
 /**
  * Copyright 2014-2022 Krisztián Nagy
  * @file Provides some constants to be used in other game logic modules
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

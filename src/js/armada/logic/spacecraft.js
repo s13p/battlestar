@@ -1,7 +1,7 @@
 /**
  * Copyright 2014-2023 Krisztián Nagy
  * @file Implementation of the Spacecraft game-logic-level class
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

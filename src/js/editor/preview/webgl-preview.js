@@ -1,7 +1,7 @@
 /**
  * Copyright 2016-2022 Krisztián Nagy
  * @file Provides the general structure to preview windows of the HumanGrok editor that use a WebGL scene 
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 

@@ -47,7 +47,7 @@ explosion/small-ship-explosion.ogg
 shield/shield-up.ogg
 shield/shield-up-ship.ogg
 
-Edited by Krisztián Nagy with Audacity
+Edited by EL_PUTA with Audacity
 License: CC BY 4.0
 Created (edited and mixed) from the following sound effects:
 
@@ -103,7 +103,7 @@ missile/missile-start.ogg
 missile/missile-start-small.ogg
 missile/missile-start-torpedo.ogg
 
-Edited by Krisztián Nagy with Audacity
+Edited by EL_PUTA with Audacity
 License: CC BY 4.0
 Created (edited and mixed) from the following sound effects:
 
@@ -127,7 +127,7 @@ spacecraft/jump_prepare_ship.ogg
 spacecraft/jump_swoosh.ogg
 spacecraft/thruster.ogg
 
-Edited by Krisztián Nagy with Audacity
+Edited by EL_PUTA with Audacity
 License: CC BY 4.0
 Created (edited and mixed) from the following sound effects:
 
@@ -157,7 +157,7 @@ Copyright: freesound user qubodup, license: CC0 1.0
 spacecraft/comm_relay.ogg
 
 Copyright 2022 Krisztián Nagy
-Created (edited and mixed) by Krisztián Nagy with Bfxr and Audacity
+Created (edited and mixed) by EL_PUTA with Bfxr and Audacity
 License: CC BY 4.0
 Using the following sound effect:
 
@@ -168,7 +168,7 @@ Copyright: Tim Verberne, license: CC0 1.0
 
 spacecraft/collision.ogg
 
-Edited by Krisztián Nagy with Audacity
+Edited by EL_PUTA with Audacity
 License: CC BY-NC 4.0
 Created (edited and mixed) from the following sound effects:
 

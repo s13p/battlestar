@@ -2,7 +2,7 @@
  * Copyright 2021-2023 Krisztián Nagy
  * @file This module connects to the Mission Hub backend and provides methods
  * to use the API of the Mission Hub
- * @author Krisztián Nagy [nkrisztian89@gmail.com]
+ * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 
