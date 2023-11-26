@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2023 Krisztián Nagy
+ * Copyright 2014-2023 EL_PUTA
  * @file Implementations of the various classes that represent all the different types of equipment to be added to spacecrafts
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

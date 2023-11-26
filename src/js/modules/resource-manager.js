@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2015, 2017, 2020-2021 Krisztián Nagy
+ * Copyright 2014-2015, 2017, 2020-2021 EL_PUTA
  * @file Provides a class that can hold and manage asynchronously loaded resources.
  * Usage:
  * - subclass GenericResource to implement a kind of resource you want to manage e.g. TextFileResource (see the class description for details)

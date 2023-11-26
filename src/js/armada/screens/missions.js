@@ -1,5 +1,5 @@
 /**
- * Copyright 2016-2023 Krisztián Nagy
+ * Copyright 2016-2023 EL_PUTA
  * @file This module manages and provides the Missions screen of the HumanGrok game.
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

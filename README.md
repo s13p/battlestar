@@ -1,6 +1,6 @@
 ![Logo](./assets/images/splash/1.png)
 
-HumanGrok: Galactic Ace is a free, Open Source browser-based 3D space 
+HumanGrok: SPACE GAME is a free, Open Source browser-based 3D space 
 combat simulator developed in JavaScript-WebGL by EL_PUTA (<nkrisztian89@gmail.com>).
 
 It follows in the traditions of old classics like the FreeSpace series with a mission based gameplay
@@ -121,6 +121,6 @@ details and attributions please do check LICENSE.txt.
 With game related questions, suggestions and feedback please contact me at
 <armada.galactic.ace@gmail.com>.
 
-Krisztián Nagy
+EL_PUTA
 
 02.09.2023.

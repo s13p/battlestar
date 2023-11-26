@@ -1,5 +1,5 @@
 /**
- * Copyright 2016-2023 Krisztián Nagy
+ * Copyright 2016-2023 EL_PUTA
  * @file Augments the general strings module with constants and functions to conveniently access strings in the game and to verify their 
  * presence in the strings files.
  * @author EL_PUTA [nkrisztian89@gmail.com]

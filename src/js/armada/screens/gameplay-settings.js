@@ -1,5 +1,5 @@
 /**
- * Copyright 2017-2023 Krisztián Nagy
+ * Copyright 2017-2023 EL_PUTA
  * @file This module manages and provides the gameplay settings screen of the HumanGrok game.
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

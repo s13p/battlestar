@@ -1,5 +1,5 @@
 /**
- * Copyright 2017, 2020-2021, 2023 Krisztián Nagy
+ * Copyright 2017, 2020-2021, 2023 EL_PUTA
  * @file Provides container classes for general use.
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

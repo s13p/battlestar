@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2018, 2020-2022 Krisztián Nagy
+ * Copyright 2014-2018, 2020-2022 EL_PUTA
  * @file Provides a basic physics engine with Newtonian mechanics
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

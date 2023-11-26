@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2021, 2023 Krisztián Nagy
+ * Copyright 2014-2021, 2023 EL_PUTA
  * @file Provides functionality to parse and load the graphics settings of HumanGrok from an external file as well as to save them
  * to or load from HTML5 local storage and access derived settings.
  * @author EL_PUTA [nkrisztian89@gmail.com]

@@ -1,5 +1,5 @@
 /**
- * Copyright 2016-2018, 2020-2022 Krisztián Nagy
+ * Copyright 2016-2018, 2020-2022 EL_PUTA
  * @file This module provides some wrappers for Web Audio API functions for easier use.
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

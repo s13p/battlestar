@@ -1,5 +1,5 @@
 /**
- * Copyright 2016-2017, 2020, 2023 Krisztián Nagy
+ * Copyright 2016-2017, 2020, 2023 EL_PUTA
  * @file Electron launch file for the HumanGrok game.
  * This file is only used when the game is launched using Electron (http://electron.atom.io/) and is based on
  * the Quick Start app from https://github.com/electron/electron-quick-start.

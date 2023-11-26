@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2017, 2020-2021 Krisztián Nagy
+ * Copyright 2014-2017, 2020-2021 EL_PUTA
  * @file Provides a pool class that can be used to minimize the creation of object from which many are created and destroyed.
  * Also provides a way to create and access common pools for different types of objects.
  * @author EL_PUTA [nkrisztian89@gmail.com]

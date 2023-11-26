@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2017, 2020-2022 Krisztián Nagy
+ * Copyright 2014-2017, 2020-2022 EL_PUTA
  * @file A low level module with no dependencies that offers general functionality useful for managing basic application functions such
  * as accessing files from a directory structure using AJAX.
  * Usage:

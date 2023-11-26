@@ -1,5 +1,5 @@
 /**
- * Copyright 2016-2023 Krisztián Nagy
+ * Copyright 2016-2023 EL_PUTA
  * @file The main module for the HumanGrok editor.
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

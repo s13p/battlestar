@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2018, 2020-2022 Krisztián Nagy
+ * Copyright 2014-2018, 2020-2022 EL_PUTA
  * @file Provides various classes that can be used integrated with the Screen module as components on screens. Also manages a shader cache
  * for storing the downloaded source (HTML and CSS) files of the created components.
  * @author EL_PUTA [nkrisztian89@gmail.com]

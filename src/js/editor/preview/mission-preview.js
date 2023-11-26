@@ -1,5 +1,5 @@
 /**
- * Copyright 2020-2022 Krisztián Nagy
+ * Copyright 2020-2022 EL_PUTA
  * @file Provides the setup and event-handling for the preview window used for missions within the HumanGrok editor.
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

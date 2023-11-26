@@ -1,5 +1,5 @@
 /**
- * Copyright 2017, 2020-2021 Krisztián Nagy
+ * Copyright 2017, 2020-2021 EL_PUTA
  * @file This module manages and provides the Dialog screen of the HumanGrok game.
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

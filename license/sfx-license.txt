@@ -1,5 +1,5 @@
 This file contains the detailed credits and licensing information about 
-the sound effects used in the HumanGrok: Galactic Ace game.
+the sound effects used in the HumanGrok: SPACE GAME game.
 
 More information about the licenses referred here:
 CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
@@ -31,7 +31,7 @@ computer/missile_locked.ogg
 computer/missile_locking.ogg
 computer/missile_loaded.ogg
 
-Copyright 2016-2020 Krisztián Nagy
+Copyright 2016-2020 EL_PUTA
 Created using Bfxr, Audacity
 License: CC BY 4.0
 
@@ -156,7 +156,7 @@ Copyright: freesound user qubodup, license: CC0 1.0
 
 spacecraft/comm_relay.ogg
 
-Copyright 2022 Krisztián Nagy
+Copyright 2022 EL_PUTA
 Created (edited and mixed) by EL_PUTA with Bfxr and Audacity
 License: CC BY 4.0
 Using the following sound effect:
@@ -183,7 +183,7 @@ Copyright: freesound user CGEffex, license: CC BY-NC 3.0
 ui/button_click.ogg
 ui/button_hover.wav
 
-Copyright 2016 Krisztián Nagy
+Copyright 2016 EL_PUTA
 Created using Bfxr, Audacity
 License: CC BY 4.0
 
@@ -196,6 +196,6 @@ weapon/weaponshot_plasma.ogg
 weapon/weaponshot-proton.ogg
 weapon/weaponshot_training.ogg
 
-Copyright 2016-2017, 2023 Krisztián Nagy
+Copyright 2016-2017, 2023 EL_PUTA
 Created using Bfxr, Audacity
 License: CC BY 4.0

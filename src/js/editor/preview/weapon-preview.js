@@ -1,5 +1,5 @@
 /**
- * Copyright 2016-2021, 2023 Krisztián Nagy
+ * Copyright 2016-2021, 2023 EL_PUTA
  * @file Provides the setup and event-handling for the preview window used for weapon classes within the HumanGrok editor.
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

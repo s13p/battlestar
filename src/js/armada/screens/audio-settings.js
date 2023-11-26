@@ -1,5 +1,5 @@
 /**
- * Copyright 2016, 2020-2021 Krisztián Nagy
+ * Copyright 2016, 2020-2021 EL_PUTA
  * @file This module manages and provides the audio settings screen of the application
  * @author EL_PUTA [nkrisztian89@gmail.com]
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>

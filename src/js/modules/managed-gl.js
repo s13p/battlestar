@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2021, 2023 Krisztián Nagy
+ * Copyright 2014-2021, 2023 EL_PUTA
  * @file Provides an interface to interact with WebGL in a managed way. Offers
  * rather low level functionality, but using it is still much more transparent 
  * than accessing WebGL directly.

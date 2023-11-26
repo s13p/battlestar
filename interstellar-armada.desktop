@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=HumanGrok: Galactic Ace
+Name=HumanGrok: SPACE GAME
 GenericName=HumanGrok
 Exec=interstellar-armada %U
 Icon=${SNAP}/meta/gui/interstellar-armada.png

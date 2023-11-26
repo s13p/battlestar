@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2018, 2020-2023 Krisztián Nagy
+ * Copyright 2014-2018, 2020-2023 EL_PUTA
  * @file A general purpose WebGL scene engine building on the functionality of ManagedGL.
  * Create a Scene, add background and main scene objects and light sources, then add it to a ManagedGLContext (or several ones), and it can
  * be rendered on them.

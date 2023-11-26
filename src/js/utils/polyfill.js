@@ -4,7 +4,7 @@
  */
 
 /**********************************************************************
- Copyright 2014-2016, 2020-2021 Krisztián Nagy
+ Copyright 2014-2016, 2020-2021 EL_PUTA
  
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by

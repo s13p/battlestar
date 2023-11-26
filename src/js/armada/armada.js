@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2018, 2020-2022 Krisztián Nagy
+ * Copyright 2014-2018, 2020-2022 EL_PUTA
  * @file Augments the template provided by the game module to define the basic structure and initialization process of the Interstellar
  * Armada game.
  * @author EL_PUTA [nkrisztian89@gmail.com]

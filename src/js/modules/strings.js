@@ -1,5 +1,5 @@
 /**
- * Copyright 2016, 2020-2022 Krisztián Nagy
+ * Copyright 2016, 2020-2022 EL_PUTA
  * @file A stateful module that stores translation strings for different languages for the application and provides functions to load these
  * strings from an object 
  * @author EL_PUTA [nkrisztian89@gmail.com]

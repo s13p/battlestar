@@ -1,5 +1,5 @@
 /**
- * Copyright 2018-2022 Krisztián Nagy
+ * Copyright 2018-2022 EL_PUTA
  * @file Provides an input interpreter subclass (based on the base class provided by the generic control module) to
  * catch and process input from a touchscreen.
  * @author EL_PUTA [nkrisztian89@gmail.com]

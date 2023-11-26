@@ -1,5 +1,5 @@
 /**
- * Copyright 2021-2022 Krisztián Nagy
+ * Copyright 2021-2022 EL_PUTA
  * @file Provides the networking functionality using WebSockets and WebRTC for multiplayer games.
  * Relies on a WebSocket server to discover, host and join games and connect with
  * the other players of the same game. If possible, establishes a direct WebRTC

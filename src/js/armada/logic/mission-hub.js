@@ -1,5 +1,5 @@
 /**
- * Copyright 2021-2023 Krisztián Nagy
+ * Copyright 2021-2023 EL_PUTA
  * @file This module connects to the Mission Hub backend and provides methods
  * to use the API of the Mission Hub
  * @author EL_PUTA [nkrisztian89@gmail.com]

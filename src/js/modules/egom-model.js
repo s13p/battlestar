@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2018, 2020-2023 Krisztián Nagy
+ * Copyright 2014-2018, 2020-2023 EL_PUTA
  * @file 
  * Provides a class representing a 3D model with several meshes storing the geometry of the model at different levels of detail. The model
  * can be edited directly, loaded from an EgomModel (egm) file, can provide its vertex data in a format suitable to be loaded to WebGL

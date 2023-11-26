@@ -1,5 +1,5 @@
 /**
- * Copyright 2016-2018, 2020-2022 Krisztián Nagy
+ * Copyright 2016-2018, 2020-2022 EL_PUTA
  * @file Provides functionality to parse and load the audio settings of HumanGrok from an external file as well as to save them
  * to or load from HTML5 local storage and access derived settings.
  * @author EL_PUTA [nkrisztian89@gmail.com]

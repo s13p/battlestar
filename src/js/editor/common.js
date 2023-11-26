@@ -1,5 +1,5 @@
 /**
- * Copyright 2016-2017, 2020-2023 Krisztián Nagy
+ * Copyright 2016-2017, 2020-2023 EL_PUTA
  * @file Provides some common functions to be used for the HumanGrok editor.
  * HumanGrok for the editor.
  * @author EL_PUTA [nkrisztian89@gmail.com]

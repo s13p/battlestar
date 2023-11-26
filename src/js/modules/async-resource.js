@@ -1,5 +1,5 @@
 /**
- * Copyright 2014-2015, 2020-2021 Krisztián Nagy
+ * Copyright 2014-2015, 2020-2021 EL_PUTA
  * @file A low level module with no dependencies.
  * Provides a class that represents asynchronously loaded resources to 
  * help transparently manage them. Provides an execution queue for the resource,

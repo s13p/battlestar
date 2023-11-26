@@ -16,7 +16,7 @@ project contact Matthew Desmond at mattdesmond@gmail.com.
 
 ChangeLog
 
-11 January 2017 (Krisztián Nagy) Aldrich_Regular version 1.002
+11 January 2017 (EL_PUTA) Aldrich_Regular version 1.002
 - Added őŐüŰ Hungarian glyphs
 
 Acknowledgements
@@ -29,7 +29,7 @@ E: mattdesmond@gmail.com
 W: www.madtype.com
 D: Original author
 
-N: Krisztián Nagy
+N: EL_PUTA
 E: nkrisztian89@gmail.com
 D: Contributor - Hungarian glyphs
 

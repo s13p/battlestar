@@ -34,7 +34,7 @@
     },
     "firstRunNote": {
         "header": "Welcome!",
-        "message": "This is a pre-release version of HumanGrok: Galactic Ace, a browser-based 3D space combat simulator by Krisztián Nagy.<br><br>Please note that <strong>the game is under development</strong> - nothing is final, features are missing, there can be bugs and performance problems.<br><br>The game <strong>collects and reports anonymous statistics</strong> that are used for development purposes only (such as balancing difficulty or focusing on the most used features) and are not linked to any personal information or IP address. This can be turned off in the settings.<br><br>If you like the game, check out the {facebook} page, where you can stay updated about the progress of the game's development!<br><br>Thank you for trying it out and enjoy!",
+        "message": "This is a pre-release version of HumanGrok: SPACE GAME, a browser-based 3D space combat simulator by EL_PUTA.<br><br>Please note that <strong>the game is under development</strong> - nothing is final, features are missing, there can be bugs and performance problems.",
         "messageWeb": "<br><br>For the best results <strong>please use the latest {chrome} (or Chromium) browser</strong>, as in the tests so far it has outperformed all other browsers significantly, and it is the only one with proper 3D sound. (the game doesn't rely on any Chrome-specific technology, so this might change in the future)",
         "button": "Start"
     },
@@ -156,7 +156,7 @@
         "submitMissionCancelButton": "Cancel",
         "submitMissionSubmitButton": "Submit",
         "submitMissionSuccess": "Mission has been successfully submitted!",
-        "submitMissionHelp": "<p>Here you can submit missions created by yourself to the Mission Hub to be reviewed by the game developer (me, Krisztián Nagy). See the <em>My missions</em> screen to create and test your own missions!</p><p><strong>Username:</strong> Enter the nickname under which you want to publish your missions. This will be visible for all players. Do not use personal information! Use the same name that you set in the editor as the author of the mission. The username must be between {minNameLength} and {maxNameLength} characters long.</p><p><strong>Password:</strong> To verify that two missions came from the same user, you must enter the same password to submit multiple missions under the same name. For security, do not use the same password that you use for important online services (email, banking etc). I do not collect email addresses, so this password can not be recovered if lost! The password must be between {minPasswordLength} and {maxPasswordLength} characters long.</p><p><strong>Comment:</strong> Add any notes here that you would like me to know about the mission. Do not include personal information! This will be only visible to me, not to other players. The information you want to share with players about the mission should go in the description field of the mission.</p><p><strong>Mission file:</strong> Select a .json file that you have created with the game editor and that meets the criteria listed on the main <em>Community missions</em> screen. The file must not be larger than {maxFileSize}.</p>",
+        "submitMissionHelp": "<p>Here you can submit missions created by yourself to the Mission Hub to be reviewed by the game developer (me, EL_PUTA). See the <em>My missions</em> screen to create and test your own missions!</p><p><strong>Username:</strong> Enter the nickname under which you want to publish your missions. This will be visible for all players. Do not use personal information! Use the same name that you set in the editor as the author of the mission. The username must be between {minNameLength} and {maxNameLength} characters long.</p><p><strong>Password:</strong> To verify that two missions came from the same user, you must enter the same password to submit multiple missions under the same name. For security, do not use the same password that you use for important online services (email, banking etc). I do not collect email addresses, so this password can not be recovered if lost! The password must be between {minPasswordLength} and {maxPasswordLength} characters long.</p><p><strong>Comment:</strong> Add any notes here that you would like me to know about the mission. Do not include personal information! This will be only visible to me, not to other players. The information you want to share with players about the mission should go in the description field of the mission.</p><p><strong>Mission file:</strong> Select a .json file that you have created with the game editor and that meets the criteria listed on the main <em>Community missions</em> screen. The file must not be larger than {maxFileSize}.</p>",
         "submissionsHeader": "My mission submissions",
         "submissionTitleColumn": "Title",
         "submissionDateColumn": "Sent",
@@ -574,7 +574,7 @@
         "sentry": "Sentry"
     },
     "battle": {
-        "developmentVersionNotice": "HumanGrok: Galactic Ace alpha {version}",
+        "developmentVersionNotice": "HumanGrok: SPACE GAME alpha {version}",
         "spectatorMode": "Spectator mode",
         "score": "Score: {score}",
         "hud": {
