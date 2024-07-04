@@ -3,7 +3,7 @@
  * @file Electron launch file for the HumanGrok game.
  * This file is only used when the game is launched using Electron (http://electron.atom.io/) and is based on
  * the Quick Start app from https://github.com/electron/electron-quick-start.
- * @author EL_PUTA [nkrisztian89@gmail.com]
+
  * @licence GNU GPLv3 <http://www.gnu.org/licenses/>
  */
 
